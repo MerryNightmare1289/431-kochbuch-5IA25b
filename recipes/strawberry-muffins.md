@@ -8,14 +8,14 @@ image: "images/recipes/strawberry-muffins.jpg"
 
 # ── Einordnung ───────────────────────────────────────────
 categories: ["Backen", "Kuchen & Gebäck"]
-tags: ["Erdbeeren", "Muffins", "Sommer", "Fruchtig"]
+tags: ["erdbeeren", "euffins", "sommer", "fruchtig"]
 contributors: ["Robin Weber"]
 difficulty: "Einfach"
 
 # ── Eckdaten ─────────────────────────────────────────────
 servings: 12
-prep_time: "15 Min."
-cook_time: "25 Min."
+prep_time: "15 Min"
+cook_time: "25 Min"
 
 # ── Zutaten ──────────────────────────────────────────────
 ingredients:
@@ -41,7 +41,7 @@ instructions:
   - "Die Muffins kurz in der Form abkühlen lassen, dann herauslösen und auf einem Kuchengitter vollständig auskühlen lassen."
 ---
 
-> «Ein Bissen Sommer auf der Zunge – frisch, fruchtig und einfach unwiderstehlich.» — Dein Name
+> «Ein Bissen Sommer auf der Zunge – frisch, fruchtig und einfach unwiderstehlich.» — Robin
 
 ## Über dieses Rezept
 
