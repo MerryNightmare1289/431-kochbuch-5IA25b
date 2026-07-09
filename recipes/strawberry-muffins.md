@@ -4,12 +4,12 @@ title: "Saftige Erdbeermuffins"
 date: 2026-07-02
 draft: false
 description: "Fluffige, fruchtige Muffins mit frischen Erdbeeren – das perfekte Gebäck für den Sommer."
-image: "images/recipes/erdbeermuffins.jpg"
+image: "images/recipes/strawberry-muffins.jpg"
 
 # ── Einordnung ───────────────────────────────────────────
 categories: ["Backen", "Kuchen & Gebäck"]
 tags: ["Erdbeeren", "Muffins", "Sommer", "Fruchtig"]
-contributors: ["Dein Name"]
+contributors: ["Robin Weber"]
 difficulty: "Einfach"
 
 # ── Eckdaten ─────────────────────────────────────────────
@@ -33,11 +33,11 @@ ingredients:
 instructions:
   - "Den Backofen auf 180 °C Ober-/Unterhitze vorheizen und ein 12er-Muffinblech mit Papierförmchen auslegen."
   - "Die Erdbeeren waschen, putzen und in kleine Würfel schneiden."
-  - "Mehl, Zucker, Vanillezucker, Backpulver und Salz in einer großen Schüssel gründlich vermischen."
+  - "Mehl, Zucker, Vanillezucker, Backpulver und Salz in einer grossen Schüssel gründlich vermischen."
   - "In einer zweiten Schüssel die Eier mit der Milch und dem Pflanzenöl verquirlen."
   - "Die feuchten Zutaten zu den trockenen geben und nur kurz mit einem Löffel verrühren, bis ein Teig entsteht (nicht zu lange rühren!)."
   - "Die Erdbeerwürfel vorsichtig unter den Teig heben."
-  - "Den Teig gleichmäßig auf die Förmchen verteilen und im vorgeheizten Ofen für ca. 20–25 Minuten goldbraun backen."
+  - "Den Teig gleichmässig auf die Förmchen verteilen und im vorgeheizten Ofen für ca. 20–25 Minuten goldbraun backen."
   - "Die Muffins kurz in der Form abkühlen lassen, dann herauslösen und auf einem Kuchengitter vollständig auskühlen lassen."
 ---
 
@@ -45,7 +45,7 @@ instructions:
 
 ## Über dieses Rezept
 
-Erdbeermuffins sind der Inbegriff von Sommer. Ich habe dieses Rezept an einem warmen Nachmittag entwickelt, als ich nach einer einfachen Möglichkeit suchte, die vielen frischen Erdbeeren zu verarbeiten. Das Ergebnis war so fluffig und saftig, dass es seitdem unser absolutes Lieblingsrezept für Kaffeebesuch oder Picknicks ist. Der Teig ist schnell zusammengerührt, und der Duft, der beim Backen durch die Küche zieht, macht die Vorfreude noch größer.
+Erdbeermuffins sind der Inbegriff von Sommer. Ich habe dieses Rezept an einem warmen Nachmittag entwickelt, als ich nach einer einfachen Möglichkeit suchte, die vielen frischen Erdbeeren zu verarbeiten. Das Ergebnis war so fluffig und saftig, dass es seitdem unser absolutes Lieblingsrezept für Kaffeebesuch oder Picknicks ist. Der Teig ist schnell zusammengerührt, und der Duft, der beim Backen durch die Küche zieht, macht die Vorfreude noch grösser.
 
 ## Tipps
 
@@ -54,5 +54,5 @@ Erdbeermuffins sind der Inbegriff von Sommer. Ich habe dieses Rezept an einem wa
 
 ## Variationen
 
-- **Schoko-Erdbeer:** Hebe zusätzlich 50g Schokodrops (oder gehackte weiße Schokolade) unter den Teig.
+- **Schoko-Erdbeer:** Hebe zusätzlich 50g Schokodrops (oder gehackte weisse Schokolade) unter den Teig.
 - **Glutenfrei:** Ersetze das Weizenmehl durch eine glutenfreie Mehlmischung und gib einen Teelöffel Xanthan hinzu, um die Bindung zu verbessern.
