@@ -8,7 +8,7 @@ image: "images/recipes/strawberry-muffins.jpg"
 
 # ── Einordnung ───────────────────────────────────────────
 categories: ["Backen", "Kuchen & Gebäck"]
-tags: ["erdbeeren", "euffins", "sommer", "fruchtig"]
+tags: ["erdbeeren", "muffins", "sommer", "fruchtig"]
 contributors: ["Robin Weber"]
 difficulty: "Einfach"
 
@@ -41,7 +41,7 @@ instructions:
   - "Die Muffins kurz in der Form abkühlen lassen, dann herauslösen und auf einem Kuchengitter vollständig auskühlen lassen."
 ---
 
-> «Ein Bissen Sommer auf der Zunge – frisch, fruchtig und einfach unwiderstehlich.» — Robin
+> «Ein Bisschen Sommer auf der Zunge – frisch, fruchtig und einfach unwiderstehlich.» — Robin
 
 ## Über dieses Rezept
 
